@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/infected/hulk/pupil"
+	"$bumpmap" "models/infected/hulk/pupil_normal"
+	"$model" 1
+	"$envmapmode" 1
+}
